@@ -2,8 +2,9 @@ import logging
 from typing import Dict, Any
 
 # Bot Configuration
-BOT_TOKEN = "YOUR_BOT_TOKEN_HERE"
-ADMIN_ID = 123456789
+BOT_TOKEN = "8702965570:AAH2SlpHbDz6g2I44_52QoLIw9aOGqH96-c"
+GROUP_ID = "-1003882662461"
+ADMIN_ID = 7831462822
 
 # Logging Configuration
 logging.basicConfig(
